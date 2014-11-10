@@ -1,0 +1,14 @@
+/* Add "click" styles because newer releases of AngularJS don't seem to add the HREF value. */
+ul {
+  list-style-type: none ;
+}
+ul li{
+margin-bottom:10px;
+float:left;
+}
+ul li img {
+  border: 1px solid #EEEEEE ;
+  border-radius: 3px 3px 3px 3px ;
+  display: block ;
+  background-repeat: repeat-y;
+}
